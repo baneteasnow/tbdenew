@@ -12,6 +12,6 @@
       "sizes":"512x512",
       "type":"image/png"}
   ],
-  "theme_color":"#FFF",
+  "theme_color":"#f9f9f9",
   "background_color":"#CDF8E8",
   "display":"minimal-ui"}
